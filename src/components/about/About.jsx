@@ -19,7 +19,7 @@ const About = () => {
                     <p className="about__description">
                         Hello  i'm Igwe Martin, a versatile Full-Stack Developer with a passion
                         for crafting seeamless and interactive web applications. with a background in both front-end
-                        and back-end technologies, i thrive on bringingideas to life in the digital realm
+                        and back-end technologies, i thrive on bringing ideas to life in the digital realm
                     </p>
                     <a download="" href={CV} className="button button--flex">Download CV</a>
      

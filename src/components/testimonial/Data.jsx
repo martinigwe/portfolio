@@ -15,9 +15,9 @@ export const Data = [
     {
         id: 2,
         image: Image2,
-        title: "Olayemi Afolabi",
+        title: "Emmanuel Ezedionu",
         description: 
-           "A really good job, all aspects of the project were followed step by step with good result.", 
+           "Consistently delivered exceptional work, meeting project goals with skill and efficiency.", 
     },
 
     {
@@ -25,6 +25,6 @@ export const Data = [
         image: Image3,
         title: "Rachael Kwabe",
         description: 
-           "A really good job, all aspects of the project were followed step by step with good result.", 
+           "Consistenly delivering high-quality code meeting project miestones ahead of schedule, and demostrating strong teamwork and adaptability.", 
     },
 ]

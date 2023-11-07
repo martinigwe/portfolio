@@ -32,7 +32,7 @@ const Footer = () => {
                 </div>
 
                 <span className="footer__copy">
-                    &#169; Igwe Martin. All rights reserved
+                    &#169; Igwe's Blog. All rights reserved
                 </span>
             </div>
          </footer>
