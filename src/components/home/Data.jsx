@@ -6,8 +6,9 @@ const Data =() => {
         <div className="home__data">
             <h1 className="home__title">Igwe Martin </h1>
             <h3 className="home__subtitle">Full Stack Developer</h3>
-            <p className="home__description">I'm a full stack developer based in Nigeria, I'm very passionate and dedicated
-            to my work.
+            <p className="home__description">Backend-focused Full Stack Developer who builds production systems, not just demo projects.
+Experienced in designing APIs, fixing production bugs, deploying applications, and working with
+Node.js, Python, MongoDB, and PostgreSQL.
             </p>
             <a href="#contact" className="button button--flex">
                 Say Hello

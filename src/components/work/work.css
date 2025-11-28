@@ -21,8 +21,12 @@
 }
 
 .work__container {
-    grid-template-columns: repeat(2, max-content);
-    gap: 3rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 equal columns */
+    gap: 2rem;                             /* space between cards */
+    max-width: 800px;                      /* wider container */
+    width: 90%;                             /* responsive width */
+    margin: 0 auto; 
     justify-content: center; 
 }
 

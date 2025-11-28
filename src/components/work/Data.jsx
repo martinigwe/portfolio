@@ -59,7 +59,7 @@ export const projectsData = [
     { 
         id: 1,
         image: Work1,
-        title: "Food Ordering" ,
+        title: " LocalBukka Food Ordering" ,
         category: "web app" ,
         href: "https://github.com/martinigwe/food-ordering"
     },
@@ -67,9 +67,9 @@ export const projectsData = [
     {
         id: 2,
         image: Work2,
-        title: "Todolist" ,
-        category: "web app" ,
-        href: "https://github.com/martinigwe/todolist"
+        title: "Data-Science-Google-Trends-and-Data-Visualisation" ,
+        category: "Data Science" ,
+        href: "https://github.com/martinigwe/Data-Science-Google-Trends-and-Data-Visualisation"
         
     },
 
@@ -90,9 +90,9 @@ export const projectsData = [
     {
         id: 5,
         image: Work5,
-        title: "App keeper" ,
+        title: "Blog App (Python)" ,
         category: "web app" , 
-        href: "https://github.com/martinigwe/app-keeper"
+        href: "https://github.com/martinigwe/Python--blog-with-users"
     },
 ];
 

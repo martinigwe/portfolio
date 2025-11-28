@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/avatar.avif";
-import CV from "../../assets/resume.pdf"
+import AboutImg from "../../assets/portfoliopic.jpg";
+import CV from "../../assets/Martin_Igwe_Resume_Updated (1).pdf"
 import Info from "./Info";
 // import AboutImg from "../../assets/image0.jpeg";
 
