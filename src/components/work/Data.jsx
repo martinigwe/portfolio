@@ -61,7 +61,7 @@ export const projectsData = [
         image: Work1,
         title: " LocalBukka Food Ordering" ,
         category: "web app" ,
-        href: "https://github.com/martinigwe/food-ordering"
+        href: "https://mern-food-ordering-app-frontend-qrjh.onrender.com/"
     },
 
     {
